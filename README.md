@@ -1,2 +1,2 @@
-# M1_BankManagementSystem
+# M1_voting System
 Repository for the c mini project
