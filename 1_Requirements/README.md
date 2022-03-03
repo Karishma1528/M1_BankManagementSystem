@@ -17,10 +17,10 @@ An voting system is a software platform that allows groups to securely conducts 
 * Accessibility: the system can be accessed by voters from any location using secure Internet and/or mobile devices;
 * Availability: the system must have high-availabilty during an election campaign.
 
- ### Design Objectives:-
+ ## Design Objectives:-
  The primary objective of the design of course, is to deliver the requirements as specifeid already.
  
- ### Design Process:-
+ ## Design Process:-
  The system design process is an execrise of specifying how,the system will work.
 
 
